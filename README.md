@@ -39,3 +39,11 @@ Transition from **Manual QA** to **Automation QA Engineer** by expanding my tech
 ---
 *This repository tracks my journey from Manual to Automation QA.*
 *All code samples, test documentation, and learning notes will be stored here.*
+
+## My Portfolio Files
+- [my_qa_approroach.md](my_qa_approroach.md) – My testing philosophy and method.
+- [example_bug_report.md](example_bug_report.md) – A real bug report example (UI issue).
+- [first_script.py](first_script.py) – My first Python script for QA automation learning.
+
+## Current Status
+Actively preparing for QA roles. Building technical skills (Python, Postman, Git) while applying strong practical testing mindset.
